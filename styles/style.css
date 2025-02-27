@@ -19,6 +19,70 @@ h1{
 }
 
 .click-me{
-    display: block;
+
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 4px;
+    color: blue;
+    text-align: center;
+    font-size: x-large;
+    justify-items: center;
+    margin: 20px;
+    padding: 8px;
+
+
+}
+
+.click-to-pay{
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 4px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    justify-items: center;
+    margin-left: 20px;
+    padding: 8px;
+
+}
+
+.card-payment{
+    width: 400px;
+    height: 800px;
+    background-color: rgb(219, 233, 238);
+    border-radius: 8px;
+    align-content: start;
+    border-color:blue ;
+    border-width: 2px;
+    margin-top: 20px;
+
+}
+
+.momo{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 251, 0);
+    border-radius: 4px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    margin-left: 20px;
+    padding: 8px;
+    margin-top: 200px;
+}
+
+.airtel{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(254, 35, 6);
+    border-radius: 4px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    margin-left: 20px;
+    padding: 8px;
+    margin-top: 20px;
 }
 
