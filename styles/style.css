@@ -13,3 +13,16 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: solid;
 }
+
+.click-me{
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 4px;
+    color: blue;
+    text-align: center;
+    font-size: x-large;
+    justify-items: center;
+    margin-left: 20px;
+    
+}
