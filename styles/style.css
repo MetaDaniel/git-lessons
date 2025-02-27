@@ -23,6 +23,22 @@ h1{
     text-align: center;
     font-size: x-large;
     justify-items: center;
+    margin: 20px;
+    padding: 8px;
+
+
+}
+
+.click-to-pay{
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 4px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    justify-items: center;
     margin-left: 20px;
+    padding: 8px;
     
 }
