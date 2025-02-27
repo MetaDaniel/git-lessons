@@ -1,4 +1,4 @@
-.card{
+.Customer-order{
     width: 400px;
     height: 800px;
     background-color: rgb(145, 145, 221);
@@ -14,7 +14,12 @@ h1{
     text-decoration: solid;
 }
 
+.item-detail{
+    display: block;
+}
+
 .click-me{
+
     width: 200px;
     height: 40px;
     background-color: white;
@@ -80,3 +85,4 @@ h1{
     padding: 8px;
     margin-top: 20px;
 }
+
