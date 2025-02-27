@@ -14,3 +14,11 @@ h1{
     text-decoration: solid;
 }
 
+.item-detail{
+    display: block;
+}
+
+.click-me{
+    display: block;
+}
+
